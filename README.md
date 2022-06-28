@@ -8,3 +8,5 @@ Manage Spotify using spotipy
 # Installation
 `pip install spotipy`
 
+# Examples
+https://github.com/plamere/spotipy/tree/master/examples
